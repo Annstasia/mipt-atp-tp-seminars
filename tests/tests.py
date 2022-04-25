@@ -5,6 +5,6 @@ def test1_sum():
 def test2_mul():
     assert 2 * 2 == 4
 
-def test3_mul():
+def test3_mal():
     assert 3 * 3 == 9
 
